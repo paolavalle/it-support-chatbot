@@ -18,9 +18,11 @@ git clone https://github.com/paolavalle/it-support-chatbot.git
 cd it-support-chatbot
 python src/chatbot.py
 
-## 🧪 Ejecutar Pruebas
-python -m pytest tests/test_classifier.py
-python -m pytest tests/test_integration.py
+## ✅ Funcionalidades
+- Registro de tickets con ID único
+- Clasificación automática por categoría
+- Consulta de estado por ID
 
-## 📁 Estructura
-- src/ → Código fuente
+## 👤 Autora
+Pamela Paola Mamani Vallejos
+Diplomado en Inteligencia Artificial — 2026
