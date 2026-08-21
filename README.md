@@ -14,25 +14,14 @@ de atención y mejorando la organización de incidencias.
 - unittest (pruebas)
 
 ## ⚙️ Instalación
-Clone el repositorio:
 git clone https://github.com/paolavalle/it-support-chatbot.git
 cd it-support-chatbot
 python src/chatbot.py
-
-## 🧪 Ejecutar Pruebas
-python -m pytest tests/test_classifier.py
-python -m pytest tests/test_integration.py
-
-## 📁 Estructura
-- src/ → Código fuente principal
-- tests/ → Pruebas unitarias e integración
-- docs/ → Documentación del proyecto
 
 ## ✅ Funcionalidades
 - Registro de tickets con ID único
 - Clasificación automática por categoría
 - Consulta de estado por ID
-- Persistencia en archivo JSON
 
 ## 👤 Autora
 Pamela Paola Mamani Vallejos
